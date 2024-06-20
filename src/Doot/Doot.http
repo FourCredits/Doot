@@ -1,0 +1,6 @@
+@Doot_HostAddress = http://localhost:5160
+
+GET {{Doot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
