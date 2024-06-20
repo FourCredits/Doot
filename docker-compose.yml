@@ -1,0 +1,6 @@
+﻿services:
+  doot:
+    image: doot
+    build:
+      context: .
+      dockerfile: src/Doot/Dockerfile
